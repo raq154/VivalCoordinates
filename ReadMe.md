@@ -1,10 +1,5 @@
 # vivaldi-coordinates
-[![Build Status](https://travis-ci.org/reklatsmasters/vivaldi-coordinates.svg?branch=master)](https://travis-ci.org/reklatsmasters/vivaldi-coordinates)
-[![npm](https://img.shields.io/npm/v/vivaldi-coordinates.svg)](https://npmjs.org/package/vivaldi-coordinates)
-[![license](https://img.shields.io/npm/l/vivaldi-coordinates.svg)](https://npmjs.org/package/vivaldi-coordinates)
-[![downloads](https://img.shields.io/npm/dm/vivaldi-coordinates.svg)](https://npmjs.org/package/vivaldi-coordinates)
-[![Code Climate](https://codeclimate.com/github/ReklatsMasters/vivaldi-coordinates/badges/gpa.svg)](https://codeclimate.com/github/ReklatsMasters/vivaldi-coordinates)
-[![Test Coverage](https://codeclimate.com/github/ReklatsMasters/vivaldi-coordinates/badges/coverage.svg)](https://codeclimate.com/github/ReklatsMasters/vivaldi-coordinates)
+Based on Implementation of Vivaldi in Vuze (https://github.com/svn2github/vuze) and Vivaldi Coordinates NodeJS library (https://github.com/reklatsmasters/vivaldi-coordinates)
 
 Vivaldi: A Decentralized Network Coordinate System. Originaly description [here](https://www.cs.umd.edu/class/spring2007/cmsc711/papers/vivaldi.pdf).This package based on source code of [Vuze](https://vuze.com/) 
 
